@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E1D92CB-0EE6-4EDC-B754-42EAC57E12C2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B7DF9C892D5CD6C62E220301C36B88499C669A86</key>
+		<string>https://github.com/domeniconi/WhatsTheWeather.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B7DF9C892D5CD6C62E220301C36B88499C669A86</key>
+		<string>WhatsTheWeather</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/domeniconi/WhatsTheWeather.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B7DF9C892D5CD6C62E220301C36B88499C669A86</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B7DF9C892D5CD6C62E220301C36B88499C669A86</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WhatsTheWeather</string>
+		</dict>
+	</array>
+</dict>
+</plist>
